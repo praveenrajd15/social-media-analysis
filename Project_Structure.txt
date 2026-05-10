@@ -1,0 +1,25 @@
+
+Social_Media_Analysis_Project/
+│
+├── data/
+│   └── social_media_analysis_data.csv
+│
+├── dashboard/
+│   └── Social_Media_Dashboard.pbix
+│
+├── images/
+│   └── dashboard_screenshot.png
+│
+├── README.md
+├── LICENSE
+└── Project_Structure.txt
+
+
+Description:
+
+data/       → Contains raw dataset (CSV file)
+dashboard/  → Contains Power BI project file (.pbix)
+images/     → Contains dashboard screenshots for preview
+README.md   → Project documentation and explanation
+LICENSE     → MIT License (recommended)
+Project_Structure.txt → Folder structure explanation
